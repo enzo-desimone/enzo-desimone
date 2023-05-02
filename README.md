@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enzo De Simone</h1>
 <h3 align="center">Frontend Developer from Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzo-desimone" alt="enzo-desimone" /></a> </p>
-
 - 🔭 I’m currently working for [Boring Stuff](https://www.boringstuff.xyz/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/enzo-desimone?tab=repositories](https://github.com/enzo-desimone?tab=repositories)
