@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/enzo-desimone?tab=repositories](https://github.com/enzo-desimone?tab=repositories)
 
-- 💬 **I'm a Software Developer, specialized in using the Flutter framework. I create Mobile, Desktop and Web applications, thanks to the versatility and performance of Flutter. I have extensive knowledge of the most used Relational Databases at the moment. I develop software for passion and to improve the quality of people's work.**
+- 💬 I'm a Software Developer, specialized in using the Flutter framework. I create Mobile, Desktop and Web applications, thanks to the versatility and performance of Flutter. I have extensive knowledge of the most used Relational Databases at the moment. I develop software for passion and to improve the quality of people's work.
 
 - 📫 How to reach me **info@enzodesimone.dev**
 
