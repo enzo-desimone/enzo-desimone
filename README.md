@@ -5,7 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/enzo-desimone?tab=repositories](https://github.com/enzo-desimone?tab=repositories)
 
-- 💬 I'm a Software engineer, specialized in using the Flutter framework. I create Mobile, Desktop and Web applications, thanks to the versatility and performance of Flutter. I have extensive knowledge of the most used Relational Databases at the moment. I develop software for passion and to improve the quality of people's work.
+- 💬 I am a Software Engineer specialized in using the Flutter framework for front-end development of Mobile, Desktop, and Web applications.
+     My skills go beyond front-end development, including a deep knowledge of major Relational Databases and back-end development with Dart.
+     For me, software development is not just a profession but a passion. I use my skills to create solutions that improve people's work and daily lives.
 
 - 📫 How to reach me **info@enzodesimone.dev**
 
