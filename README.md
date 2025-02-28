@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0553B1&height=200&section=header&text=Enzo%20De%20Simone&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0553B1&center=true&vCenter=true&width=435&lines=Flutter+Developer;Software+Engineer;Package+Creator;Problem+Solver)](https://github.com/enzo-desimone)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0553B1&center=true&vCenter=true&width=435&lines=Flutter+Developer;Software+Engineer)](https://github.com/enzo-desimone)
 
   <p>
     <a href="https://linkedin.com/in/enzo-desimone"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
