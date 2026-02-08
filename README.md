@@ -1,93 +1,115 @@
-
 <div align="center">
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/enzo-desimone" alt="Enzo De Simone avatar" width="140" height="140"/>
-</p>
+<img src="https://avatars.githubusercontent.com/enzo-desimone" width="160" height="160" style="border-radius:50%" />
 
-  <h1>👋 Hi, I'm <strong>Enzo De Simone</strong></h1>
-  <p><strong>💻 Flutter Developer · Software Engineer</strong></p>
+# Enzo De Simone  
+## Software Engineer · Flutter & Cross‑Platform Architect
 
-  <p>
-    <a href="https://linkedin.com/in/enzo-desimone">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn badge">
-    </a>
-    <a href="mailto:info@enzodesimone.dev">
-      <img src="https://img.shields.io/badge/Email-DC4E41?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email badge">
-    </a>
-    <a href="https://instagram.com/enzode.simone">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram badge">
-    </a>
-  </p>
+**Designing software that feels simple,  
+works fast, and scales gracefully.**
+
+<br/>
+
+<a href="https://linkedin.com/in/enzo-desimone">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:v.desimone@besimsoft.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/enzode.simone">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>📍 Italy · 💼 Besimsoft · 🧠 Engineering‑driven mindset</sub>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## ✨ Profile
 
-```dart
-class EnzoDeSimone {
-  final location = "Italy";
-  final currentRole = "Software Engineer @ Boring Stuff";
-  final age = 29;
-  final List<String> specializations = [
-    "Flutter Development",
-    "Cross-Platform Apps",
-    "UI/UX Implementation",
-    "Database Architecture",
-    "Package Publishing"
-  ];
-  String philosophy() => "Software development is not just a profession but a passion. I use my skills to create solutions that improve people's work and daily lives.";
-}
-```
+I am a **Software Engineer specialized in Flutter and cross‑platform systems**,  
+focused on building **robust architectures**, **pixel‑perfect interfaces** and  
+**production‑ready solutions** that scale over time.
 
-✨ Passionate about building **clean, performant and user-friendly applications** that truly make a difference.  
+I enjoy working across the full stack: from UI composition to backend logic  
+and database design, always aiming for **clarity and long‑term maintainability**.
 
 ---
 
-## 🔧 Tech Stack  
+## 🧬 Engineering DNA
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" alt="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" height="50" alt="Apple / iOS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
+```dart
+class EnzoDeSimone {
+  final role = "Software Engineer @ Besimsoft";
+  final location = "Italy";
+
+  final principles = [
+    "Clean architecture over shortcuts",
+    "Design systems, not screens",
+    "Performance as a feature",
+    "Readable code is maintainable code",
+    "Minimal UI, maximum clarity"
+  ];
+
+  String belief() =>
+    "Great software should disappear and let users focus on what matters.";
+}
+```
+
+---
+
+## 🧰 Technology Stack
+
+### Frontend & Cross‑Platform
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
+</p>
+
+### Backend & Data
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+</p>
+
+### Platforms & Tooling
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </p>
 
 ---
 
-## 📦 Open Source Packages  
+## 📦 Open Source Highlights
 
-| Package | Version | Likes | Popularity | Points |
-| ------- | ------- | ----- | ---------- | ------ |
-| [check_app_version](https://pub.dev/packages/check_app_version) | ![Version](https://img.shields.io/pub/v/check_app_version?style=for-the-badge) | ![Likes](https://img.shields.io/pub/likes/check_app_version?style=for-the-badge) | ![Popularity](https://img.shields.io/pub/popularity/check_app_version?style=for-the-badge) | ![Points](https://img.shields.io/pub/points/check_app_version?style=for-the-badge) |
-| [firebase_verify_token_dart](https://pub.dev/packages/firebase_verify_token_dart) | ![Version](https://img.shields.io/pub/v/firebase_verify_token_dart?style=for-the-badge) | ![Likes](https://img.shields.io/pub/likes/firebase_verify_token_dart?style=for-the-badge) | ![Popularity](https://img.shields.io/pub/popularity/firebase_verify_token_dart?style=for-the-badge) | ![Points](https://img.shields.io/pub/points/firebase_verify_token_dart?style=for-the-badge) |
-| [ntp_dart](https://pub.dev/packages/ntp_dart) | ![Version](https://img.shields.io/pub/v/ntp_dart?style=for-the-badge) | ![Likes](https://img.shields.io/pub/likes/ntp_dart?style=for-the-badge) | ![Popularity](https://img.shields.io/pub/popularity/ntp_dart?style=for-the-badge) | ![Points](https://img.shields.io/pub/points/ntp_dart?style=for-the-badge) |
+I maintain and publish Dart packages adopted in real production systems.
 
----
+| Package | Focus |
+|------|------|
+| **check_app_version** | App update enforcement & version control |
+| **firebase_verify_token_dart** | Secure Firebase token verification |
+| **ntp_dart** | Accurate network time synchronization |
 
-## 🌐 Current Work  
-
-🚀 Currently at **[Boring Stuff](https://www.boringstuff.xyz/)**, focusing on:  
-
-- ⚡ Scalable cross-platform apps  
-- 🧩 Reusable Flutter components  
-- 🔐 Authentication workflows  
+🔗 https://pub.dev/packages/check_app_version  
+🔗 https://pub.dev/packages/firebase_verify_token_dart  
+🔗 https://pub.dev/packages/ntp_dart  
 
 ---
 
-## 📫 Contact  
+## 🚀 Professional Experience
 
-📧 [info@enzodesimone.dev](mailto:info@enzodesimone.dev)  
-💼 [LinkedIn](https://linkedin.com/in/enzo-desimone)  
-📷 [Instagram](https://instagram.com/enzode.simone)  
+### Software Engineer · **Besimsoft**
+
+- Architecting scalable Flutter applications  
+- Building reusable UI libraries and internal design systems  
+- Implementing secure authentication & authorization pipelines  
+- Working with relational databases and backend integrations  
+- Improving performance, reliability and code quality  
 
 ---
+
